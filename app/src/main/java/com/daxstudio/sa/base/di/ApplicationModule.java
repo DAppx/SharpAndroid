@@ -3,11 +3,8 @@ package com.daxstudio.sa.base.di;
 import android.app.Application;
 import android.content.Context;
 
-import javax.inject.Singleton;
-
 import dagger.Module;
 import dagger.Provides;
-import com.daxstudio.sa.mvp.ApplicationContext;
 
 /**
  * Provide application-level dependencies.

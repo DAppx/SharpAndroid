@@ -1,4 +1,4 @@
-package com.daxstudio.sa.mvp;
+package com.daxstudio.sa.base.di;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
