@@ -1,7 +1,8 @@
-package com.daxstudio.sa.base.di;
+package com.daxstudio.sa.ui.di;
 
 import android.app.Application;
 import android.content.Context;
+import com.daxstudio.sa.base.di.ApplicationContext;
 
 import javax.inject.Singleton;
 
@@ -20,8 +21,8 @@ public interface ApplicationComponent {
 
  //   void inject(SyncService syncService);
 
-    @ApplicationContext
-    Context context();
+//    @ApplicationContext
+//    Context context();
     Application application();
 //    RibotsService ribotsService();
 //    PreferencesHelper preferencesHelper();

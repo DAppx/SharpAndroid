@@ -1,9 +1,8 @@
 package com.daxstudio.sa.base.di;
 
 import dagger.Component;
-import com.daxstudio.sa.base.di.ActivityModule;
-import com.daxstudio.sa.base.di.ApplicationComponent;
-import com.daxstudio.sa.base.di.ConfigPersistent;
+
+import com.daxstudio.sa.ui.di.ApplicationComponent;
 
 
 /**
