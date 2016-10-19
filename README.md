@@ -12,7 +12,8 @@
 The following are brief descriptions of the technologies used
 ##MVP
 MVP (Model View Presenter) pattern is a derivative from the well known MVC (Model View Controller), which for a while now is gaining importance in the development of Android applications.
-* MVP pattern:<http://antonioleiva.com/mvp-android>
+* MVP pattern:<http://antonioleiva.com/mvp-android> ...
+
 ##Networking
 ### [RXJava](https://github.com/ReactiveX/RxJava)
 RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
