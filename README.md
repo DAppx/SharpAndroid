@@ -1,13 +1,4 @@
-Editor Configuration
-Screens
-Summary
-Quotes
-Technologies
-Continuous Integration
-Redux State Management
-Hot Reloading
-FAQ
-Source documentation# SharpAndroid
+# SharpAndroid
 
 #Notes
 
