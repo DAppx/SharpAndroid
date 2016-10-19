@@ -74,13 +74,15 @@ The flexible, easy to use, all in one drawer library for your Android project
 ###[Android-Iconics](https://github.com/mikepenz/Android-Iconics)
 Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application;
 * This library allows you to include vector icons everywhere in your project. No limits are given. Scale with no limit, use any color at any time, provide a contour, and many additional customizations.
+
 ### [FastAdapter](https://github.com/mikepenz/FastAdapter)
 The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction.
+
 ###[ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 an imagePicker for android ,with it,you can select single or multiple image,crop it for avatar,take a photo and use it,preview and zoom etc.
-###[NineGridView](https://github.com/jeasonlzy/NineGridView)
-A custom widget for Android, which uesd for showing grid pictures
 
+###[NineGridView](https://github.com/jeasonlzy/NineGridView)
+A custom widget for Android, which uesd for showing grid pictures.
 
 ##Testing
-###[]()
+
